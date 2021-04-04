@@ -1,6 +1,8 @@
 # SELF_PARKING_CAR_USING_ARDUINO
 A prototype of a car capable of demonstrating autonomous parallel parking using arrduino uno.
+
 **OVERVIEW**  
+
 Parallel parking can be challenging for many drivers. Many modern day cars do
 not have any systems in place to make parking a lot easier.And the vehicles that has
 autonomous parking facilities are not affordable for common people.So, the purpose of
